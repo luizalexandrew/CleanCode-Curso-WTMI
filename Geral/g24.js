@@ -1,0 +1,1 @@
+//G24: Siga as convenções padrões 

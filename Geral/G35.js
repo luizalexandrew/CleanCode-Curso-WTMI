@@ -1,0 +1,1 @@
+//G35: Mantenha os dados configuraveís em níveis altos
